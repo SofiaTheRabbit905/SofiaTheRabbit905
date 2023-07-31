@@ -1,5 +1,5 @@
 ## About Me:
-❤️ I’m studying medicine🙂<br>🌱 I’m not a programmer😁<br>🎮 I’m a Gamer😉<br>🌟 I’m like helping people🌟<br>🌱 I’m currently learning C# right now🐾<br>💬why i do programming?🤔<br>💫i like to work on projects that help improve the gaming experience and this is one of my hobbies🌌
+❤️ I’m studying medicine🙂<br>🌱 I’m not a programmer😁<br>🎮 I’m a Gamer😉<br>🌟 I’m like helping people🌟<br>🌱 I’m currently learning C# right now🐾<br>💬why i do programming?🤔<br>💫i like to work on projects that improve the gaming experience and this is one of my hobbies🌌
 
 [![](https://visitcount.itsvg.in/api?id=SofiaTheRabbit905&icon=4&color=6)](https://visitcount.itsvg.in)
 
