@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SofiaTheRabbit905&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaTheRabbit905&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![if you want to know what your future will look like, look at choices you're making right now](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SofiaTheRabbit905&icon=4&color=6)](https://visitcount.itsvg.in)
